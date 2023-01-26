@@ -10,4 +10,3 @@ This coursework aims to use 2009 ASA Statistical Computing and Graphics Data Exp
 
 R and Python are used to answer all questions. SQL is used to query the database created from DBI (R) library. 
 
-The R and IPYNB files contain RMarkdown and Jupyter Notebook files, each answering the 5 questions, respectively.
