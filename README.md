@@ -8,6 +8,6 @@ This coursework aims to use 2009 ASA Statistical Computing and Graphics Data Exp
 4. Can you detect cascading failures as delays in one airport create delays in others?
 5. Use the available resources to construct a model that predicts delays.
 
-R and Python are used to answer all questions. SQL is used to query the databases created from DBI (R) and sqlite3 (Python) libraries. 
+R and Python are used to answer all questions. SQL is used to query the database created from DBI (R) library. 
 
 The R_files and Python_files folders contain RMarkdown & Jupyter Notebook files, each answering the 5 questions, respectively.
